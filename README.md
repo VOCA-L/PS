@@ -4,7 +4,7 @@ Personal study space (Data structure, Algorithm and Cpp STL)
 # Basic
 |catagory|detail|completion day|
 |:------:|:---|:---:|
-|I/O|입출력 연습|230428|
+|I/O|입출력 연습|230427|
 |DS|기초 자료구조|테스트3|
 |BM|기초 수학|테스트3|
 |ST|정렬|테스트3|
