@@ -1,6 +1,8 @@
 # PS
 Personal study space (Data structure, Algorithm and Cpp STL)
 
+Problem at Baekjoon Online Judge
+
 # Basic
 |catagory|detail|completion day|
 |:------:|:---|:---:|
@@ -14,3 +16,4 @@ Personal study space (Data structure, Algorithm and Cpp STL)
 |B/M|기초 수학|테스트3|
 |GR|탐욕|테스트3|
 |ES|완전 탐색|테스트3|
+
